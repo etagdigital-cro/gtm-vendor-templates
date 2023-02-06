@@ -1,5 +1,5 @@
 homepage: "https://etagdigital.com/"
 documentation: ""
 versions:
-  - sha: d3259d21d8f06b95475b4cfbc89de9ca3a55d6a8
+  - sha: f9cbb000956132d9b6538daec7811af519ae53aa
     changeNotes: Initial release.
