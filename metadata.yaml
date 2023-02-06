@@ -1,5 +1,5 @@
 homepage: "https://etagdigital.com/"
-documentation: ""
+documentation: "https://github.com/etagdigital-cro/gtm-vendor-templates"
 versions:
-  - sha: f9cbb000956132d9b6538daec7811af519ae53aa
+  - sha: 550d0b4be5e2271abf403ef088576cf7c1a8b419
     changeNotes: Initial release.
