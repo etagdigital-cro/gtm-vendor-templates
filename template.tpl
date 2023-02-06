@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Etag Digital | SmartTag",
-  "categories": ["REMARKETING", "PERSONALIZATION", "LEAD_GENERATION"]
+  "categories": ["REMARKETING", "PERSONALIZATION", "LEAD_GENERATION"],
   "brand": {
     "id": "EtagDigital",
     "displayName": "Etag Digital",
